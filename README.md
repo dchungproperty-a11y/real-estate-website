@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Real Estate Website
+
+A professional real estate agent website built with Next.js, featuring a modern homepage with hero section, about me section, featured neighborhoods, and a functional contact form with Formspree integration.
+
+## Features
+
+- 🏠 Professional homepage with hero section
+- 👤 About me section with credentials
+- 🏘️ Featured neighborhoods (Manhattan, Brooklyn, Queens)
+- 📧 Contact form with Formspree integration
+- 🎨 Modern design with Tailwind CSS
+- 📱 Fully responsive design
 
 ## Getting Started
 
